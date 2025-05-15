@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Computer Science student with a love for coding, creativity, and continuous learning.
 
-## 👨‍🎓 About Me
+## About Me
 - 🎓 **BSCS Student** at FAST-NUCES Karachi  
 - 💻 Proficient in **Python**, **C/C++**  
 - 🎨 Skilled in **Graphic Designing**  
