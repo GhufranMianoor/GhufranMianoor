@@ -5,16 +5,15 @@ Welcome to my GitHub profile! I'm a Computer Science student with a love for cod
 ## About Me
 - 🎓 **BSCS Student** at FAST-NUCES Karachi  
 - 💻 Proficient in **Python**, **C/C++**  
-- 🎨 Skilled in **Graphic Designing**  
-- 🌐 Currently learning **Web Development** at SMIT  
+- 🎨 Skilled in **Graphic Designing**   
 
 ## 🛠️ Tools & Technologies I Use
-- 🧠 Problem Solving & Algorithms  
-- ✏️ Adobe Illustrator  
-- 🧑‍💻 Visual Studio Code  
-- 🌍 HTML, CSS (Learning Phase)  
+-  Problem Solving & Algorithms  
+-  Adobe Illustrator  
+-  Visual Studio Code  
+-  HTML, CSS (Learning Phase)  
 
-## 🤝 Let's Connect!
+    ## 🤝 Let's Connect!
 - [LinkedIn](https://linkedin.com) 🔗  
 - [Email Me](mailto:your.email@example.com) 📬  
 
